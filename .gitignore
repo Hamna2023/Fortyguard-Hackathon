@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+.env
+.streamlit/secrets.toml
+# data/site_data_cache.json is committed on purpose - a warm cache makes the
+# deployed app load instantly. Regenerate with `python refresh_data.py`.
+
+# data/rasters/ is a runtime write-through cache of the live temperature raster
+# (last-good fallback when the API is rate-limited). Not committed.
+data/rasters/

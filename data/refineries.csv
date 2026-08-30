@@ -1,0 +1,11 @@
+name,operator,city,state,lat,lon,coastal_or_ct_drift
+Port Arthur,Motiva,Port Arthur,TX,29.88490,-93.96293,true
+Galveston Bay,Marathon,Texas City,TX,29.37750,-94.93283,true
+Baytown,ExxonMobil,Baytown,TX,29.73900,-95.01060,true
+Beaumont,ExxonMobil,Beaumont,TX,30.11611,-94.12028,false
+Garyville,Marathon,Garyville,LA,30.05972,-90.59806,false
+Richmond,Chevron,Richmond,CA,37.94222,-122.39528,true
+El Segundo,Chevron,El Segundo,CA,33.91385,-118.41897,true
+Whiting,BP,Whiting,IN,41.67306,-87.47861,false
+Ponca City,Phillips 66,Ponca City,OK,36.69156,-97.08977,false
+Commerce City,Suncor,Commerce City,CO,39.80179,-104.94573,false

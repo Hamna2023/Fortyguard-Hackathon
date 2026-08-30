@@ -1,0 +1,7 @@
+asset,default_temp_f,material,compute,note
+Crude Tower Overhead,220,Carbon steel,true,
+Desalter,250,Carbon steel,true,
+Vacuum Tower Overhead,175,Carbon steel,true,
+Atmospheric Side Draw,350,Carbon steel,true,
+Furnace Transfer Line,700,Carbon steel,false,Above the CUI window at steady state; elevated risk during cycling / outages (API 571 / API RP 581) - screen separately.
+Ambient Storage Tank,80,Carbon steel,true,
